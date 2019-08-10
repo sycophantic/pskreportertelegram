@@ -1,0 +1,3 @@
+CALLSIGN=""
+APIKEY=""
+CHATID=""
